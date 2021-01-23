@@ -4,7 +4,7 @@
 </head>
 <body> 
 
-<body background = ![](SAMPLE(1)/earth.jpg width = 1200 , length = 800) <p align="center">
+<body background = url(https://i.pinimg.com/originals/1c/6a/8b/1c6a8b1c629f18ddfc469bccb54b4f45.jpg) , width= 1200 length=800>
 
 <br><br><br>
 <br><br><br>
