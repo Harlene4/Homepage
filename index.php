@@ -19,7 +19,7 @@ h1 {
 </style>
 <center><b><font color="white", size= "48"><h1>The Global<br>Pandemic</h1> </font> </b></center>
 <center><b><font color= "white" , size= "20"> GROUP#6 </font> </center>
-<p align="center"> <img src = "virus.jpg" , width = 210 , length = 210></img><br>
+<p align="center"> <img src = "SAMPLE(1)/virus.jpg" , width = 210 , length = 210></img><br>
 </body>
 </html>
 
