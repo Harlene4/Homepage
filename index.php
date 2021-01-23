@@ -4,8 +4,8 @@
 </head>
 <body> 
 
-<body background = "earth.jpg" , width=1200 , length=800>
-                  
+<body background = "earth.jpg" , width = 1200 , length = 800> <p align="center">
+
 <br><br><br>
 <br><br><br>
 <br><br><br>
@@ -20,7 +20,9 @@ h1 {
 <center><b><font color="white", size= "48"><h1>The Global<br>Pandemic</h1> </font> </b></center>
 <center><b><font color= "white" , size= "20"> GROUP#6 </font> </center>
 <p align="center"> <img src = "virus.jpg" , width = 210 , length = 210></img><br>
-</body>
-</html>
 
+
+ </body>
+
+</html>
 
