@@ -4,7 +4,7 @@
 </head>
 <body> 
 
-<body background = "earth.jpg" , width = 1200 , length = 800> <p align="center">
+<body background = "SAMPLE(1)/earth.jpg" width = 1200 , length = 800> <p align="center">
 
 <br><br><br>
 <br><br><br>
